@@ -2877,7 +2877,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Imported Parts:Display_128x64_096_I2C"
 			(at 38.1 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -2954,7 +2954,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K"
 			(at 115.57 152.3999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2965,7 +2965,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:TSOP-I-32_18.4x8mm_P0.5mm"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 111.252 151.13 90)
 			(hide yes)
 			(show_name no)
@@ -3045,7 +3045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_NKK_GW12LJP"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 41.91 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -3361,7 +3361,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Seeed_Studio_XIAO_Series:XIAO-ESP32-C3-SMD"
+		(property "Footprint" "Imported Parts:XIAO-ESP32-C6-DIP"
 			(at 51.562 113.284 0)
 			(hide yes)
 			(show_name no)
@@ -3657,7 +3657,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 35.56 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -4155,7 +4155,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 41.91 82.55 0)
 			(hide yes)
 			(show_name no)

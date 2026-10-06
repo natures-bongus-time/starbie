@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 2.95h | 2 |
+| Week 1 | Tier 1 | 3.25h | 2 |
 
 ## Contents
 
@@ -21,7 +21,7 @@
 
 ### 2026-10-05 — I made the schematic but struggled with setting up kicad and getting the libraries to work. once I got going though, it was a lot easier. I'm still not quite sure about  what each thing i'm doin means
 
-**1.45h**
+**1.75h**
 
 I made the schematic but struggled with setting up kicad and getting the libraries to work. once I got going though, it was a lot easier. I'm still not quite sure about  what each thing i'm doin means, but I feel like I'm learning something.
 

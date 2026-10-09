@@ -19,6 +19,8 @@
 #include <DHT.h>
 #include <Preferences.h>
 #include <math.h>
+#include <USBHost.h>
+#include <KeyboardController.h>
 
 // =========================== BEGINNER SETTINGS ===========================
 // Everything most builders will want to customize is in this one section.
@@ -55,7 +57,7 @@ const bool RESET_SAVED_PET_ON_BOOT = false;
 enum PetReaction {
   NAP_REACTION,
   JUMP_REACTION,
-  HEART_REACTION,
+  CONVERSATION,
   RUN_REACTION,
 };
 
@@ -71,7 +73,7 @@ const MenuItem MENU_ITEMS[] = {
   {"NAP",   1,  18, -4, NAP_REACTION},   // top: sleep and emit Zs
   {"PLAY", 12, -9, -5, RUN_REACTION},    // right: two fast laps + hearts
   {"FEED",  3,  2,  18, JUMP_REACTION},  // bottom: wiggle and jump
-  {"PET",   7,  0,  0, HEART_REACTION},  // left: jump and emit hearts
+  {"TALK",   7,  0,  0, CONVERSATION},  // left: jump and emit hearts
 };
 const int MENU_ITEM_COUNT = sizeof(MENU_ITEMS) / sizeof(MENU_ITEMS[0]);
 
@@ -113,7 +115,7 @@ const uint32_t NAP_DURATION_MS = 48000;  // 48 seconds: four times the old nap.
 const uint16_t HEARTS_DURATION_MS = 1600;
 const uint16_t PLAY_LAP_MS = 800;
 const uint8_t PLAY_LAP_COUNT = 2;
-
+const uint8_t EXTRA_PLAY_LAP = 0;
 // Each byte stores eight pixels, left to right. This sparse outline keeps the
 // supplied creature readable on a tiny, one-bit OLED: head, eye, legs, tail,
 // and a small flower-like ear accent all stay separate instead of becoming a blob.
@@ -139,6 +141,21 @@ const unsigned char* epd_bitmap_allArray[1] = {
 
 
 };
+
+USBHost usb;
+
+// Attach Keyboard controller to USB
+KeyboardController keyboard(usb);
+
+void setup(){
+  Serial.begin(9600);
+}
+
+void loop(){
+  usb.Task();
+}
+
+
 // ===========================================================================
 // You can read below without needing to understand every line. The rest of
 // the sketch handles buttons, sensors, drawing, and saving automatically.
@@ -262,6 +279,10 @@ bool wasPressed(ButtonState &button) {
   return false;
 }
 
+if wasPressed(button2){
+  EXTRA_PLAY_LAP ++;
+}
+
 void updateMpu() {
   if (!mpuFound || millis() - lastMpuReadAt < MPU_READ_INTERVAL_MS) {
     return;
@@ -301,7 +322,7 @@ int petWalkingX(uint32_t now) {
 }
 
 uint32_t playRunDuration() {
-  return static_cast<uint32_t>(PLAY_LAP_MS) * PLAY_LAP_COUNT;
+  return static_cast<uint32_t>(PLAY_LAP_MS) * (PLAY_LAP_COUNT + EXTRA_PLAY_LAP);
 }
 
 bool isNapping() {
@@ -326,6 +347,7 @@ void updatePetTimers() {
   }
   if (playRunStartedAt != 0 && !isPlaying()) {
     playRunStartedAt = 0;  // PLAY is exactly two left-to-right-to-left laps.
+    EXTRA_PLAY_LAP = 0;
   }
 }
 
@@ -413,8 +435,9 @@ void chooseMenuItem() {
   } else {
     // A confirmed action gets a little anticipation shake before the jump.
     petJumpStartedAt = now;
-    if (item.reaction == HEART_REACTION) {
+    if (item.reaction == CONVERSATION) {
       heartAnimationEndsAt = now + HEARTS_DURATION_MS;
+      conversation()
     }
   }
   currentView = PET_VIEW;
@@ -433,6 +456,19 @@ void handleButtons() {
     // Button 2 never changes the pet. It only lets you peek at the values.
     currentView = currentView == STATS_VIEW ? PET_VIEW : STATS_VIEW;
   }
+}
+
+void conversation() {
+  display.print("HI!!!!!")
+  display.print("do you want to talk?")
+  void keyPressed(){
+ Serial.write(keyboard.getKey());
+ Serial.println();
+ display.print("I'm sorry,")
+ display.print ("I couldn't understand that.")
+ display.print("I guess we can't talk then.")
+ JoyChange --
+}
 }
 
 void drawSparkle(int x, int y) {

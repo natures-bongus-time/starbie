@@ -462,9 +462,13 @@ void conversation() {
   display.print("HI!!!!!")
   display.print("do you want to talk?")
   void keyPressed(){
- Serial.write(keyboard.getKey());
- Serial.println();
- display.print("I'm sorry,")
+    
+ if (keyboard.getKey() = ("Y")){
+    display.print("YAY!,")
+ }
+  elif (keyboard.getKey() = ("N")) {
+    display.print ("awww. I guess next time")
+  }
  display.print ("I couldn't understand that.")
  display.print("I guess we can't talk then.")
  JoyChange --

@@ -20,7 +20,7 @@
 | [10k Resistor](https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/26085/16822119) | board | 1 | $0.20 | $0.20 | [digikey](https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/26085/16822119) |
 | [PCB](https://www.jlcpcb.com/) | pcb | 1 | $13.90 | $13.90 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$31.02** | — |
-| **Tax & shipping** | — | — | — | **$7.00** | — |
-| **Total** | — | — | — | **$38.02** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$36.02** | — |
 
-**$8.02 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$6.02 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.

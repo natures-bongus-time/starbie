@@ -21,7 +21,7 @@
 | [PCB](https://www.jlcpcb.com/) | pcb | 1 | $13.90 | $13.90 | [JLCPCB](https://www.jlcpcb.com/) |
 | [usb-c receptor](https://www.digikey.com/en/products/detail/linkplex/LUB-C131-0-007-G-19/26798658) | connecting | 1 | $0.64 | $0.64 | [digikey](https://www.digikey.com/en/products/detail/linkplex/LUB-C131-0-007-G-19/26798658) |
 | **Parts subtotal** | — | — | — | **$31.66** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$31.66** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$36.66** | — |
 
-**$1.66 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$6.66 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.

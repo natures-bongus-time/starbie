@@ -12,10 +12,9 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [10k resistor](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1M00/1741316) | usb port and dht | 10 | $0.03 | $0.30 | [Digikey](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1M00/1741316) |
 | [ESP32-C3 super mini](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | chip | 1 | $5.00 | $5.00 | [seeed](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
-| **Parts subtotal** | — | — | — | **$5.30** | — |
+| **Parts subtotal** | — | — | — | **$5.00** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$5.30** | — |
+| **Total** | — | — | — | **$5.00** | — |
 
-$24.70 left of the tier's funding.
+$25.00 left of the tier's funding.

@@ -25,9 +25,3 @@ the design and firmware are included.
 <img width="408" height="134" alt="Screenshot 2026-10-08 173905" src="https://github.com/user-attachments/assets/0de9a782-876e-47d6-9734-e6835257b7c2" />
 
 
-
-- `PCB/` - KiCad source files and fabrication exports
-- `Renders/` - front and back PCB renders
-- `Week 1 Guide.md` - project guide material
-- `Firmware/` - Arduino IDE starter sketch
-- 

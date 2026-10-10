@@ -19,9 +19,8 @@
 | [MX Switches](https://www.digikey.com/en/products/detail/e-switch/TL2201OAYA/583531) | buttons | 2 | $0.89 | $1.78 | [digikey](https://www.digikey.com/en/products/detail/e-switch/TL2201OAYA/583531) |
 | [10k Resistor](https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/26085/16822119) | board | 1 | $0.20 | $0.20 | [digikey](https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/26085/16822119) |
 | [PCB](https://www.jlcpcb.com/) | pcb | 1 | $13.90 | $13.90 | [JLCPCB](https://www.jlcpcb.com/) |
-| [usb-c receptor](https://www.digikey.com/en/products/detail/linkplex/LUB-C131-0-007-G-19/26798658) | connecting | 1 | $0.64 | $0.64 | [digikey](https://www.digikey.com/en/products/detail/linkplex/LUB-C131-0-007-G-19/26798658) |
-| **Parts subtotal** | — | — | — | **$31.66** | — |
+| **Parts subtotal** | — | — | — | **$31.02** | — |
 | **Tax & shipping** | — | — | — | **$7.00** | — |
-| **Total** | — | — | — | **$38.66** | — |
+| **Total** | — | — | — | **$38.02** | — |
 
-**$8.66 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$8.02 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.

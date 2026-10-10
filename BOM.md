@@ -22,7 +22,7 @@
 | [PCB](https://www.jlcpcb.com/) | pcb | 1 | $13.90 | $13.90 | [JLCPCB](https://www.jlcpcb.com/) |
 | [usb-c receptor](https://www.amazon.com/CY-Connector-Receptacle-Female-Socket/dp/B0CFXNFYR9/ref=asc_df_B0CFXNFYR9?tag=bingshoppinga-20&linkCode=df0&hvadid=79920961900671&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=97935&hvtargid=pla-4583520436762798&hvocijid=5888477215200961693-B0CFXNFYR9-&hvexpln=0&th=1) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/CY-Connector-Receptacle-Female-Socket/dp/B0CFXNFYR9/ref=asc_df_B0CFXNFYR9?tag=bingshoppinga-20&linkCode=df0&hvadid=79920961900671&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=97935&hvtargid=pla-4583520436762798&hvocijid=5888477215200961693-B0CFXNFYR9-&hvexpln=0&th=1) |
 | **Parts subtotal** | — | — | — | **$26.87** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$26.87** | — |
+| **Tax & shipping** | — | — | — | **$0.60** | — |
+| **Total** | — | — | — | **$27.47** | — |
 
-$3.13 left of the tier's funding.
+$2.53 left of the tier's funding.

@@ -17,12 +17,11 @@
 | [MPU6050](https://www.amazon.com/dp/B0943SGP34) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0943SGP34) |
 | [DHT11](https://www.lcsc.com/product-detail/C117051.html?s_z=s_p_x_DHT11) | sensor | 1 | $1.46 | $1.46 | [lcsc](https://www.lcsc.com/product-detail/C117051.html?s_z=s_p_x_DHT11) |
 | [MX Switches](https://www.digikey.com/en/products/detail/e-switch/TL2201OAYA/583531) | buttons | 2 | $0.89 | $1.78 | [digikey](https://www.digikey.com/en/products/detail/e-switch/TL2201OAYA/583531) |
-| [Keycaps](https://www.digikey.com/en/products/detail/e-switch/TL2201OAYA/583531) | buttons | 2 | $1.78 | $3.56 | [digikey](https://www.digikey.com/en/products/detail/e-switch/TL2201OAYA/583531) |
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | pcb | 1 | $13.90 | $13.90 | [JLCPCB](https://www.jlcpcb.com/) |
 | [usb-c receptor](https://www.amazon.com/CY-Connector-Receptacle-Female-Socket/dp/B0CFXNFYR9/ref=asc_df_B0CFXNFYR9?tag=bingshoppinga-20&linkCode=df0&hvadid=79920961900671&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=97935&hvtargid=pla-4583520436762798&hvocijid=5888477215200961693-B0CFXNFYR9-&hvexpln=0&th=1) | connecting | 1 | $0.60 | $0.60 | [Amazon](https://www.amazon.com/CY-Connector-Receptacle-Female-Socket/dp/B0CFXNFYR9/ref=asc_df_B0CFXNFYR9?tag=bingshoppinga-20&linkCode=df0&hvadid=79920961900671&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=97935&hvtargid=pla-4583520436762798&hvocijid=5888477215200961693-B0CFXNFYR9-&hvexpln=0&th=1) |
-| **Parts subtotal** | — | — | — | **$32.30** | — |
+| **Parts subtotal** | — | — | — | **$28.74** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$32.30** | — |
+| **Total** | — | — | — | **$28.74** | — |
 
-**$2.30 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$1.26 left of the tier's funding.

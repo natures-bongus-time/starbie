@@ -24,7 +24,7 @@
 8. [2026-10-09 – Work session](#2026-10-09-work-session)
 9. [2026-10-10 – finished the project!!!! it was pretty difficult though ,and I had to take out the art in the end in otd](#2026-10-10-finished-the-project-it-was-pretty-difficult-thou)
 10. [2026-10-10 – I figured out how to change the color and made it pink. I also changed some of the art and layers. each art thing is marked with :3 or a variant because I thought it would be fun. I finally finished I](#2026-10-10-i-figured-out-how-to-change-the-color-and-made-it)
-11. [2026-10-10 – Work session](#2026-10-10-work-session)
+11. [2026-10-10 – I moved the USB stuff to the edge so it would be easy to plug in.](#2026-10-10-i-moved-the-usb-stuff-to-the-edge-so-it-would-be-)
 
 ## Design
 
@@ -123,8 +123,10 @@ I figured out how to change the color and made it pink. I also changed some of t
 
 ![Screenshot 2026-10-10 122846](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/55781e490e70731e1280da343e3264b09b9722f3777ea9edcb445aa02565681e.png)
 
-### 2026-10-10 – Work session
+### 2026-10-10 – I moved the USB stuff to the edge so it would be easy to plug in.
 
 **0.27h**
+
+I moved the USB stuff to the edge so it would be easy to plug in.
 
 [Timelapse](https://lookout.hackclub.com/api/media/8adae0a8-484f-4f5b-ba30-8feef86f2c8c/video.mp4)

@@ -22,7 +22,7 @@
 6. [2026-10-08 – I added the ability to make the pet run longer, but I wasn't able to add keyboard support or anything unfortunately. I am still going to have the pet sweat in high heat or humidity and shiver in the c](#2026-10-08-i-added-the-ability-to-make-the-pet-run-longer-bu)
 7. [2026-10-08 – Work session](#2026-10-08-work-session)
 8. [2026-10-09 – Work session](#2026-10-09-work-session)
-9. [2026-10-10 – Work session](#2026-10-10-work-session)
+9. [2026-10-10 – finished the project!!!! it was pretty difficult though ,and I had to take out the art in the end in otd](#2026-10-10-finished-the-project-it-was-pretty-difficult-thou)
 10. [2026-10-10 – I figured out how to change the color and made it pink. I also changed some of the art and layers. each art thing is marked with :3 or a variant because I thought it would be fun. I finally finished I](#2026-10-10-i-figured-out-how-to-change-the-color-and-made-it)
 11. [2026-10-10 – Work session](#2026-10-10-work-session)
 
@@ -104,9 +104,11 @@ I added the ability to make the pet run longer, but I wasn't able to add keyboar
 
 [Timelapse](https://lookout.hackclub.com/api/media/909f7104-27c5-4340-b5ce-1ae48f40abcb/video.mp4)
 
-### 2026-10-10 – Work session
+### 2026-10-10 – finished the project!!!! it was pretty difficult though ,and I had to take out the art in the end in otd
 
 **0.68h**
+
+finished the project!!!! it was pretty difficult though ,and I had to take out the art in the end in otd
 
 [Timelapse](https://lookout.hackclub.com/api/media/a47fbf54-8495-4993-8545-570edf8d542a/video.mp4)
 

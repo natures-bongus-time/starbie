@@ -22,7 +22,7 @@
 6. [2026-10-08 – I added the ability to make the pet run longer, but I wasn't able to add keyboard support or anything unfortunately. I am still going to have the pet sweat in high heat or humidity and shiver in the c](#2026-10-08-i-added-the-ability-to-make-the-pet-run-longer-bu)
 7. [2026-10-08 – ![10773](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d93f0ae2891a74f059cf103c7c648147bb499a8f342da65a433ebd9f356ba771.png)](#2026-10-08-10773httpshalflifehackclub-assetscomhackclub-half)
 8. [2026-10-09 – ![10737](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d1b9bc0619c702daea570e2f763c4ce6526913c0e3f88d1eb88bfa9221ed2c4f.png)](#2026-10-09-10737httpshalflifehackclub-assetscomhackclub-half)
-9. [2026-10-10 – I drew some art and added some other stuff for the PCB!](#2026-10-10-i-drew-some-art-and-added-some-other-stuff-for-th)
+9. [2026-10-10 – ![10736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/141e604145fc1323edca629eb337947be7a015a2aadf4bc5b09c8f9484814090.png)](#2026-10-10-10736httpshalflifehackclub-assetscomhackclub-half)
 10. [2026-10-10 – I figured out how to change the color and made it pink. I also changed some of the art and layers. each art thing is marked with :3 or a variant because I thought it would be fun. I finally finished I](#2026-10-10-i-figured-out-how-to-change-the-color-and-made-it)
 11. [2026-10-10 – ![10772](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8010f63bf6d021a91d9c95a89d09e3bc0edf4c6c4a161d04a39312de00c59141.png)](#2026-10-10-10772httpshalflifehackclub-assetscomhackclub-half)
 
@@ -112,9 +112,11 @@ did some coding and added USB stuff
 
 [Timelapse](https://lookout.hackclub.com/api/media/909f7104-27c5-4340-b5ce-1ae48f40abcb/video.mp4)
 
-### 2026-10-10 – I drew some art and added some other stuff for the PCB!
+### 2026-10-10 – ![10736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/141e604145fc1323edca629eb337947be7a015a2aadf4bc5b09c8f9484814090.png)
 
 **0.68h**
+
+![10736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/141e604145fc1323edca629eb337947be7a015a2aadf4bc5b09c8f9484814090.png)
 
 I drew some art and added some other stuff for the PCB!
 

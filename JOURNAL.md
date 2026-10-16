@@ -24,7 +24,7 @@
 8. [2026-10-09 – did some coding and added USB stuff](#2026-10-09-did-some-coding-and-added-usb-stuff)
 9. [2026-10-10 – I drew some art and added some other stuff for the PCB!](#2026-10-10-i-drew-some-art-and-added-some-other-stuff-for-th)
 10. [2026-10-10 – I figured out how to change the color and made it pink. I also changed some of the art and layers. each art thing is marked with :3 or a variant because I thought it would be fun. I finally finished I](#2026-10-10-i-figured-out-how-to-change-the-color-and-made-it)
-11. [2026-10-10 – I moved the USB stuff to the edge so it would be easy to plug in.](#2026-10-10-i-moved-the-usb-stuff-to-the-edge-so-it-would-be-)
+11. [2026-10-10 – ![10772](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8010f63bf6d021a91d9c95a89d09e3bc0edf4c6c4a161d04a39312de00c59141.png)](#2026-10-10-10772httpshalflifehackclub-assetscomhackclub-half)
 
 ## Design
 
@@ -127,9 +127,11 @@ I figured out how to change the color and made it pink. I also changed some of t
 
 ![Screenshot 2026-10-10 122846](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/55781e490e70731e1280da343e3264b09b9722f3777ea9edcb445aa02565681e.png)
 
-### 2026-10-10 – I moved the USB stuff to the edge so it would be easy to plug in.
+### 2026-10-10 – ![10772](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8010f63bf6d021a91d9c95a89d09e3bc0edf4c6c4a161d04a39312de00c59141.png)
 
 **0.27h**
+
+![10772](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8010f63bf6d021a91d9c95a89d09e3bc0edf4c6c4a161d04a39312de00c59141.png)
 
 I moved the USB stuff to the edge so it would be easy to plug in.
 

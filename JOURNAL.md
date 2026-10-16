@@ -21,7 +21,7 @@
 5. [2026-10-08 – spent a long time on the pixel art and then had trouble converting the image,  but eventually got it working. got started on animations for  high and low temperatures and humidity. Might add a game li](#2026-10-08-spent-a-long-time-on-the-pixel-art-and-then-had-t)
 6. [2026-10-08 – I added the ability to make the pet run longer, but I wasn't able to add keyboard support or anything unfortunately. I am still going to have the pet sweat in high heat or humidity and shiver in the c](#2026-10-08-i-added-the-ability-to-make-the-pet-run-longer-bu)
 7. [2026-10-08 – Work session](#2026-10-08-work-session)
-8. [2026-10-09 – Work session](#2026-10-09-work-session)
+8. [2026-10-09 – did some coding and](#2026-10-09-did-some-coding-and)
 9. [2026-10-10 – I drew some art and added some other stuff for the PCB!](#2026-10-10-i-drew-some-art-and-added-some-other-stuff-for-th)
 10. [2026-10-10 – I figured out how to change the color and made it pink. I also changed some of the art and layers. each art thing is marked with :3 or a variant because I thought it would be fun. I finally finished I](#2026-10-10-i-figured-out-how-to-change-the-color-and-made-it)
 11. [2026-10-10 – I moved the USB stuff to the edge so it would be easy to plug in.](#2026-10-10-i-moved-the-usb-stuff-to-the-edge-so-it-would-be-)
@@ -98,9 +98,11 @@ I added the ability to make the pet run longer, but I wasn't able to add keyboar
 
 [Timelapse](https://lookout.hackclub.com/api/media/114be964-4682-47a6-8d2d-29c1326f8c64/video.mp4)
 
-### 2026-10-09 – Work session
+### 2026-10-09 – did some coding and
 
 **0.87h**
+
+did some coding and
 
 [Timelapse](https://lookout.hackclub.com/api/media/909f7104-27c5-4340-b5ce-1ae48f40abcb/video.mp4)
 

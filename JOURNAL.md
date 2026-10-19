@@ -139,6 +139,6 @@ I figured out how to change the color and made it pink. I also changed some of t
 
 ![10772](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8010f63bf6d021a91d9c95a89d09e3bc0edf4c6c4a161d04a39312de00c59141.png)
 
-I moved the USB stuff to the edge so it would be easy to plug in.
+spent this session moving the parts with USB ports over to the edge so that I would be actually able to plug them into something without the board getting in the way and making it impossible to charge the thing.
 
 [Timelapse](https://lookout.hackclub.com/api/media/8adae0a8-484f-4f5b-ba30-8feef86f2c8c/video.mp4)

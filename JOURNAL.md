@@ -118,7 +118,7 @@ this time I did a lot more coding, and I edited the PCB and schematics to add US
 
 ![10736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/141e604145fc1323edca629eb337947be7a015a2aadf4bc5b09c8f9484814090.png)
 
-I drew some art and added some other stuff for the PCB!
+I drew some art  for the pcb to make it look cool and I spent some time on the code and fixing things, although  all the art came out very different than I expected. Hopefully it turns out well, and looks okay.
 
 [Timelapse](https://lookout.hackclub.com/api/media/a47fbf54-8495-4993-8545-570edf8d542a/video.mp4)
 

@@ -20,7 +20,7 @@
 4. [2026-10-07 – ![Screenshot 2026-10-07 201721](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f478c62367c6be35a6efe99642eaa193d801440ffee8a8bec22525015a794bfb.png)](#2026-10-07-screenshot-2026-10-07-201721httpshalflifehackclub)
 5. [2026-10-08 – spent a long time on the pixel art and then had trouble converting the image,  but eventually got it working. got started on animations for  high and low temperatures and humidity. Might add a game li](#2026-10-08-spent-a-long-time-on-the-pixel-art-and-then-had-t)
 6. [2026-10-08 – I added the ability to make the pet run longer, but I wasn't able to add keyboard support or anything unfortunately. I am still going to have the pet sweat in high heat or humidity and shiver in the c](#2026-10-08-i-added-the-ability-to-make-the-pet-run-longer-bu)
-7. [2026-10-08 – ![10773](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d93f0ae2891a74f059cf103c7c648147bb499a8f342da65a433ebd9f356ba771.png)](#2026-10-08-10773httpshalflifehackclub-assetscomhackclub-half)
+7. [2026-10-08 – ![Screenshot 2026-10-19 164624](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/0550ac916533b37df5469656db3dd74bef1e6b3db0aa57f9a1b061a4f84d622f.png)](#2026-10-08-screenshot-2026-10-19-164624httpshalflifehackclub)
 8. [2026-10-09 – ![Screenshot 2026-10-19 164526](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8a57631dda75b79b340426cc9e4d9df2bdcdb0e4fbedbb0fed694bf4060efb3d.png)](#2026-10-09-screenshot-2026-10-19-164526httpshalflifehackclub)
 9. [2026-10-10 – ![Screenshot 2026-10-19 164254](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f6c1eb4b5c2e0af9fade2b643a93062c29fae2c3d7200dc3e8c98ea9b24f7e27.png)](#2026-10-10-screenshot-2026-10-19-164254httpshalflifehackclub)
 10. [2026-10-10 – I figured out how to change the color and made it pink. I also changed some of the art and layers. each art thing is marked with :3 or a variant because I thought it would be fun. I finally finished I](#2026-10-10-i-figured-out-how-to-change-the-color-and-made-it)
@@ -92,9 +92,11 @@ I added the ability to make the pet run longer, but I wasn't able to add keyboar
 
 ![Screenshot 2026-10-08 173856](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8700d7e553b8760dd285bdd40fda8a7535198af8a3f275a05d633a317249e925.png)
 
-### 2026-10-08 – ![10773](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d93f0ae2891a74f059cf103c7c648147bb499a8f342da65a433ebd9f356ba771.png)
+### 2026-10-08 – ![Screenshot 2026-10-19 164624](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/0550ac916533b37df5469656db3dd74bef1e6b3db0aa57f9a1b061a4f84d622f.png)
 
 **0.45h**
+
+![Screenshot 2026-10-19 164624](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/0550ac916533b37df5469656db3dd74bef1e6b3db0aa57f9a1b061a4f84d622f.png)
 
 ![10773](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d93f0ae2891a74f059cf103c7c648147bb499a8f342da65a433ebd9f356ba771.png)
 

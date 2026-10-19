@@ -24,7 +24,7 @@
 8. [2026-10-09 – ![10737](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d1b9bc0619c702daea570e2f763c4ce6526913c0e3f88d1eb88bfa9221ed2c4f.png)](#2026-10-09-10737httpshalflifehackclub-assetscomhackclub-half)
 9. [2026-10-10 – ![10736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/141e604145fc1323edca629eb337947be7a015a2aadf4bc5b09c8f9484814090.png)](#2026-10-10-10736httpshalflifehackclub-assetscomhackclub-half)
 10. [2026-10-10 – I figured out how to change the color and made it pink. I also changed some of the art and layers. each art thing is marked with :3 or a variant because I thought it would be fun. I finally finished I](#2026-10-10-i-figured-out-how-to-change-the-color-and-made-it)
-11. [2026-10-10 – ![10772](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8010f63bf6d021a91d9c95a89d09e3bc0edf4c6c4a161d04a39312de00c59141.png)](#2026-10-10-10772httpshalflifehackclub-assetscomhackclub-half)
+11. [2026-10-10 – ![Screenshot 2026-10-19 164204](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/33609434865827e9970df6aea3b55a3799b681be56eb1db6ba7d7d22f9bdf594.png)](#2026-10-10-screenshot-2026-10-19-164204httpshalflifehackclub)
 
 ## Design
 
@@ -133,9 +133,11 @@ I figured out how to change the color and made it pink. I also changed some of t
 
 ![Screenshot 2026-10-10 122846](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/55781e490e70731e1280da343e3264b09b9722f3777ea9edcb445aa02565681e.png)
 
-### 2026-10-10 – ![10772](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8010f63bf6d021a91d9c95a89d09e3bc0edf4c6c4a161d04a39312de00c59141.png)
+### 2026-10-10 – ![Screenshot 2026-10-19 164204](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/33609434865827e9970df6aea3b55a3799b681be56eb1db6ba7d7d22f9bdf594.png)
 
 **0.27h**
+
+![Screenshot 2026-10-19 164204](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/33609434865827e9970df6aea3b55a3799b681be56eb1db6ba7d7d22f9bdf594.png)
 
 ![10772](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8010f63bf6d021a91d9c95a89d09e3bc0edf4c6c4a161d04a39312de00c59141.png)
 

@@ -98,7 +98,7 @@ I added the ability to make the pet run longer, but I wasn't able to add keyboar
 
 ![10773](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d93f0ae2891a74f059cf103c7c648147bb499a8f342da65a433ebd9f356ba771.png)
 
-coding and redesigning stuff
+I spent this session coding, I added a feature to make the pet run forever if you decide you want to do that, and I also redesigned and rewired the pcb, which took a long time to finish doing for some reason.
 
 [Timelapse](https://lookout.hackclub.com/api/media/114be964-4682-47a6-8d2d-29c1326f8c64/video.mp4)
 

@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 10.52h | 11 |
+| Week 1 | Tier 1 | 9.97h | 11 |
 
 ## Contents
 
@@ -22,7 +22,7 @@
 6. [2026-10-08 – I added the ability to make the pet run longer, but I wasn't able to add keyboard support or anything unfortunately. I am still going to have the pet sweat in high heat or humidity and shiver in the c](#2026-10-08-i-added-the-ability-to-make-the-pet-run-longer-bu)
 7. [2026-10-08 – ![10773](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d93f0ae2891a74f059cf103c7c648147bb499a8f342da65a433ebd9f356ba771.png)](#2026-10-08-10773httpshalflifehackclub-assetscomhackclub-half)
 8. [2026-10-09 – ![10737](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d1b9bc0619c702daea570e2f763c4ce6526913c0e3f88d1eb88bfa9221ed2c4f.png)](#2026-10-09-10737httpshalflifehackclub-assetscomhackclub-half)
-9. [2026-10-10 – ![10736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/141e604145fc1323edca629eb337947be7a015a2aadf4bc5b09c8f9484814090.png)](#2026-10-10-10736httpshalflifehackclub-assetscomhackclub-half)
+9. [2026-10-10 – ![Screenshot 2026-10-19 164254](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f6c1eb4b5c2e0af9fade2b643a93062c29fae2c3d7200dc3e8c98ea9b24f7e27.png)](#2026-10-10-screenshot-2026-10-19-164254httpshalflifehackclub)
 10. [2026-10-10 – I figured out how to change the color and made it pink. I also changed some of the art and layers. each art thing is marked with :3 or a variant because I thought it would be fun. I finally finished I](#2026-10-10-i-figured-out-how-to-change-the-color-and-made-it)
 11. [2026-10-10 – ![Screenshot 2026-10-19 164204](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/33609434865827e9970df6aea3b55a3799b681be56eb1db6ba7d7d22f9bdf594.png)](#2026-10-10-screenshot-2026-10-19-164204httpshalflifehackclub)
 
@@ -112,15 +112,15 @@ this time I did a lot more coding, and I edited the PCB and schematics to add US
 
 [Timelapse](https://lookout.hackclub.com/api/media/909f7104-27c5-4340-b5ce-1ae48f40abcb/video.mp4)
 
-### 2026-10-10 – ![10736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/141e604145fc1323edca629eb337947be7a015a2aadf4bc5b09c8f9484814090.png)
+### 2026-10-10 – ![Screenshot 2026-10-19 164254](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f6c1eb4b5c2e0af9fade2b643a93062c29fae2c3d7200dc3e8c98ea9b24f7e27.png)
 
-**0.68h**
+**0.13h**
+
+![Screenshot 2026-10-19 164254](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f6c1eb4b5c2e0af9fade2b643a93062c29fae2c3d7200dc3e8c98ea9b24f7e27.png)
 
 ![10736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/141e604145fc1323edca629eb337947be7a015a2aadf4bc5b09c8f9484814090.png)
 
 I drew some art  for the pcb to make it look cool and I spent some time on the code and fixing things, although  all the art came out very different than I expected. Hopefully it turns out well, and looks okay.
-
-[Timelapse](https://lookout.hackclub.com/api/media/a47fbf54-8495-4993-8545-570edf8d542a/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/fd268f16-c74a-4376-ab2d-3f1cf1825f43/video.mp4)
 

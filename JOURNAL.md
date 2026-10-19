@@ -108,7 +108,7 @@ I spent this session coding, I added a feature to make the pet run forever if yo
 
 ![10737](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d1b9bc0619c702daea570e2f763c4ce6526913c0e3f88d1eb88bfa9221ed2c4f.png)
 
-did some coding and added USB stuff
+this time I did a lot more coding, and I edited the PCB and schematics to add USB support, I'm pretty sure that it worked, but there's a chance it didn't work at alll, so we'll see when it's  time to build it and test it.
 
 [Timelapse](https://lookout.hackclub.com/api/media/909f7104-27c5-4340-b5ce-1ae48f40abcb/video.mp4)
 

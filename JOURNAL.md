@@ -17,7 +17,7 @@
 1. [2026-10-05 – # I made the schematic!!!](#2026-10-05-i-made-the-schematic)
 2. [2026-10-05 – # Routing!!!!](#2026-10-05-routing)
 3. [2026-10-06 – # Routing again!!!](#2026-10-06-routing-again)
-4. [2026-10-07 – ![Screenshot 2026-10-07 201721](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f478c62367c6be35a6efe99642eaa193d801440ffee8a8bec22525015a794bfb.png)](#2026-10-07-screenshot-2026-10-07-201721httpshalflifehackclub)
+4. [2026-10-07 – # short Arduino session](#2026-10-07-short-arduino-session)
 5. [2026-10-08 – spent a long time on the pixel art and then had trouble converting the image,  but eventually got it working. got started on animations for  high and low temperatures and humidity. Might add a game li](#2026-10-08-spent-a-long-time-on-the-pixel-art-and-then-had-t)
 6. [2026-10-08 – I added the ability to make the pet run longer, but I wasn't able to add keyboard support or anything unfortunately. I am still going to have the pet sweat in high heat or humidity and shiver in the c](#2026-10-08-i-added-the-ability-to-make-the-pet-run-longer-bu)
 7. [2026-10-08 – ![Screenshot 2026-10-19 164624](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/0550ac916533b37df5469656db3dd74bef1e6b3db0aa57f9a1b061a4f84d622f.png)](#2026-10-08-screenshot-2026-10-19-164624httpshalflifehackclub)
@@ -88,15 +88,16 @@ I routed everything
 - to check before redoing something to see if it actually needs redoing
 - to think more carefully about design choices
 
-### 2026-10-07 – ![Screenshot 2026-10-07 201721](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f478c62367c6be35a6efe99642eaa193d801440ffee8a8bec22525015a794bfb.png)
+### 2026-10-07 – # short Arduino session
 
 **0.75h**
 
-![Screenshot 2026-10-07 201721](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f478c62367c6be35a6efe99642eaa193d801440ffee8a8bec22525015a794bfb.png)
-
-I struggled to get arduino working but I finally did although I'm not sure if I did it right because the thing may  have wanted me to have the board itself and I don't, but I guess we'll see what happens
-
-![Screenshot 2026-10-07 201728](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/81fd40dba230d661b75e6a6c930eda3a078c607c530436a23f9fc410c6a72bae.png)
+# short Arduino session
+## what I did:
+I got Arduino running and did a little bit of the firmware
+![Screenshot 2026-10-07 201721](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f478c62367c6be35a6efe99642eaa193d801440ffee8a8bec22525015a794bfb.png)![Screenshot 2026-10-07 201728](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/81fd40dba230d661b75e6a6c930eda3a078c607c530436a23f9fc410c6a72bae.png)
+## challenges:
+I struggled to get arduino working but I finally did although I'm not sure if I did it right because the thing may  have wanted me to have the board itself and I don't
 
 ### 2026-10-08 – spent a long time on the pixel art and then had trouble converting the image,  but eventually got it working. got started on animations for  high and low temperatures and humidity. Might add a game li
 

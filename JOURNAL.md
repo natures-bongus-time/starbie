@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuve25x8000w01kpztxcsxew). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> A starter pcb to start learning how to make them based off of the starbie guide but with a lot of additions.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
@@ -14,7 +14,7 @@
 
 ## Contents
 
-1. [2026-10-05 – I made the schematic but struggled with setting up kicad and getting the libraries to work. once I got going though, it was a lot easier. I'm still not quite sure about  what each thing i'm doin means](#2026-10-05-i-made-the-schematic-but-struggled-with-setting-u)
+1. [2026-10-05 – # I made the schematic!!!](#2026-10-05-i-made-the-schematic)
 2. [2026-10-05 – I routed everything, but I put it mostly on the back of the board so... i guess we'll see if it works on two different layers. I also had trouble understanding how to route at all, but I get it now so](#2026-10-05-i-routed-everything-but-i-put-it-mostly-on-the-ba)
 3. [2026-10-06 – I re routed everything because I though I made a mistake, I don't know if I actually did, and I added cartoon stars to the image converter as background art because thought it would look good, althoug](#2026-10-06-i-re-routed-everything-because-i-though-i-made-a-)
 4. [2026-10-07 – ![Screenshot 2026-10-07 201721](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f478c62367c6be35a6efe99642eaa193d801440ffee8a8bec22525015a794bfb.png)](#2026-10-07-screenshot-2026-10-07-201721httpshalflifehackclub)
@@ -28,17 +28,27 @@
 
 ## Design
 
-### 2026-10-05 – I made the schematic but struggled with setting up kicad and getting the libraries to work. once I got going though, it was a lot easier. I'm still not quite sure about  what each thing i'm doin means
+### 2026-10-05 – # I made the schematic!!!
 
 **1.75h**
 
-I made the schematic but struggled with setting up kicad and getting the libraries to work. once I got going though, it was a lot easier. I'm still not quite sure about  what each thing i'm doin means, but I feel like I'm learning something.
-
+# I made the schematic!!!
+## what I did:
+ I put in
+- the controller,
+- the switches,
+- the sensors
+- and the screen
 ![Screenshot 2026-10-05 173320](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/cbc898c643c99b72c4df39a36ffff46ff27c90f26676cffa0e5cfe4526bf69bc.png)
 
 ![Screenshot 2026-10-05 173331](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/98ed0e99f8f27b6d8f2006d85cbf3e51489377c084ffc58a344f331dffef9c55.png)
 
 ![Screenshot 2026-10-05 173320](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/cbc898c643c99b72c4df39a36ffff46ff27c90f26676cffa0e5cfe4526bf69bc.png)
+##  what was hard:
+ - i struggled with setting up kicad and getting the libraries to work.
+- the schematic took a surprising amount of time to figure out
+## what I learned:
+ - I'm still not quite sure about  what each thing i'm doingmeans, but I feel like I'm making progress.
 
 ### 2026-10-05 – I routed everything, but I put it mostly on the back of the board so... i guess we'll see if it works on two different layers. I also had trouble understanding how to route at all, but I get it now so
 

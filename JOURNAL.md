@@ -104,9 +104,9 @@ I struggled to get arduino working but I finally did although I'm not sure if I 
 **1.75h**
 
 # pixel art and firmware!
-##what I did:
+## what I did:
 - spent a long time on the pixel art
--messed up converting the image,
+- messed up converting the image,
 - eventually got it working.
 - started thinking about animations for  high and low temperatures and humidity.
 

@@ -19,7 +19,7 @@
 3. [2026-10-06 – # Routing again!!!](#2026-10-06-routing-again)
 4. [2026-10-07 – # short Arduino session](#2026-10-07-short-arduino-session)
 5. [2026-10-08 – # pixel art and firmware!](#2026-10-08-pixel-art-and-firmware)
-6. [2026-10-08 – I added the ability to make the pet run longer, but I wasn't able to add keyboard support or anything unfortunately. I am still going to have the pet sweat in high heat or humidity and shiver in the c](#2026-10-08-i-added-the-ability-to-make-the-pet-run-longer-bu)
+6. [2026-10-08 – # firmware!](#2026-10-08-firmware)
 7. [2026-10-08 – ![Screenshot 2026-10-19 164624](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/0550ac916533b37df5469656db3dd74bef1e6b3db0aa57f9a1b061a4f84d622f.png)](#2026-10-08-screenshot-2026-10-19-164624httpshalflifehackclub)
 8. [2026-10-09 – ![Screenshot 2026-10-19 164526](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8a57631dda75b79b340426cc9e4d9df2bdcdb0e4fbedbb0fed694bf4060efb3d.png)](#2026-10-09-screenshot-2026-10-19-164526httpshalflifehackclub)
 9. [2026-10-10 – ![Screenshot 2026-10-19 164254](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f6c1eb4b5c2e0af9fade2b643a93062c29fae2c3d7200dc3e8c98ea9b24f7e27.png)](#2026-10-10-screenshot-2026-10-19-164254httpshalflifehackclub)
@@ -117,15 +117,21 @@ I struggled to get arduino working but I finally did although I'm not sure if I 
 ## ideas for the future:
 adding something like a game?
 
-### 2026-10-08 – I added the ability to make the pet run longer, but I wasn't able to add keyboard support or anything unfortunately. I am still going to have the pet sweat in high heat or humidity and shiver in the c
+### 2026-10-08 – # firmware!
 
 **1h**
 
-I added the ability to make the pet run longer, but I wasn't able to add keyboard support or anything unfortunately. I am still going to have the pet sweat in high heat or humidity and shiver in the cold.
+# firmware!
+# what I did:
+- I added the ability to make the pet run longer
 
 ![Screenshot 2026-10-08 173905](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/4106db23a6b67e0a2194771cb6ec713ca4b7171eb9fc6bf67b8e2367a3606e5c.png)
 
 ![Screenshot 2026-10-08 173856](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8700d7e553b8760dd285bdd40fda8a7535198af8a3f275a05d633a317249e925.png)
+## challenges:
+- wasn't able to add keyboard support or anything unfortunately.
+## future ideas
+I am still going to have the pet sweat in high heat or humidity and shiver in the cold.
 
 ### 2026-10-08 – ![Screenshot 2026-10-19 164624](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/0550ac916533b37df5469656db3dd74bef1e6b3db0aa57f9a1b061a4f84d622f.png)
 

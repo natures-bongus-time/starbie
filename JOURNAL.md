@@ -23,7 +23,7 @@
 7. [2026-10-08 – ![Screenshot 2026-10-19 164624](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/0550ac916533b37df5469656db3dd74bef1e6b3db0aa57f9a1b061a4f84d622f.png)](#2026-10-08-screenshot-2026-10-19-164624httpshalflifehackclub)
 8. [2026-10-09 – ![Screenshot 2026-10-19 164526](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8a57631dda75b79b340426cc9e4d9df2bdcdb0e4fbedbb0fed694bf4060efb3d.png)](#2026-10-09-screenshot-2026-10-19-164526httpshalflifehackclub)
 9. [2026-10-10 – ![Screenshot 2026-10-19 164254](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f6c1eb4b5c2e0af9fade2b643a93062c29fae2c3d7200dc3e8c98ea9b24f7e27.png)](#2026-10-10-screenshot-2026-10-19-164254httpshalflifehackclub)
-10. [2026-10-10 – I figured out how to change the color and made it pink. I also changed some of the art and layers. each art thing is marked with :3 or a variant because I thought it would be fun. I finally finished I](#2026-10-10-i-figured-out-how-to-change-the-color-and-made-it)
+10. [2026-10-10 – # aesthetics!](#2026-10-10-aesthetics)
 11. [2026-10-10 – ![Screenshot 2026-10-19 164204](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/33609434865827e9970df6aea3b55a3799b681be56eb1db6ba7d7d22f9bdf594.png)](#2026-10-10-screenshot-2026-10-19-164204httpshalflifehackclub)
 
 ## Design
@@ -171,14 +171,19 @@ I drew some art  for the pcb to make it look cool and I spent some time on the c
 
 [Timelapse](https://lookout.hackclub.com/api/media/fd268f16-c74a-4376-ab2d-3f1cf1825f43/video.mp4)
 
-### 2026-10-10 – I figured out how to change the color and made it pink. I also changed some of the art and layers. each art thing is marked with :3 or a variant because I thought it would be fun. I finally finished I
+### 2026-10-10 – # aesthetics!
 
 **0.75h**
 
-I figured out how to change the color and made it pink. I also changed some of the art and layers. each art thing is marked with :3 or a variant because I thought it would be fun. I finally finished I think, just one more session to export everything correctly
-![Screenshot 2026-10-10 122838](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/026ed863f08931c4f2eef77658bd0d05d297bda6919666874a861b0717d5a914.png)
+# aesthetics!
+## what I did:
+- Figured out how to change the color and made it pink.
+-  changed some of the art and layers.
+- each art thing is now marked with :3 or a variant because I thought it would be fun. ![Screenshot 2026-10-10 122838](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/026ed863f08931c4f2eef77658bd0d05d297bda6919666874a861b0717d5a914.png)
 
 ![Screenshot 2026-10-10 122846](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/55781e490e70731e1280da343e3264b09b9722f3777ea9edcb445aa02565681e.png)
+# finished?!?!??
+I finally finished I think, just one more session to export everything correctly
 
 ### 2026-10-10 – ![Screenshot 2026-10-19 164204](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/33609434865827e9970df6aea3b55a3799b681be56eb1db6ba7d7d22f9bdf594.png)
 

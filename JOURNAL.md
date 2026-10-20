@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 9.97h | 11 |
+| Week 1 | Tier 1 | 10.52h | 11 |
 
 ## Contents
 
@@ -159,13 +159,15 @@ this time I did a lot more coding, and I edited the PCB and schematics to add US
 
 ### 2026-10-10 – ![Screenshot 2026-10-19 164254](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f6c1eb4b5c2e0af9fade2b643a93062c29fae2c3d7200dc3e8c98ea9b24f7e27.png)
 
-**0.13h**
+**0.68h**
 
 ![Screenshot 2026-10-19 164254](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f6c1eb4b5c2e0af9fade2b643a93062c29fae2c3d7200dc3e8c98ea9b24f7e27.png)
 
 ![10736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/141e604145fc1323edca629eb337947be7a015a2aadf4bc5b09c8f9484814090.png)
 
 I drew some art  for the pcb to make it look cool and I spent some time on the code and fixing things, although  all the art came out very different than I expected. Hopefully it turns out well, and looks okay.
+
+[Timelapse](https://lookout.hackclub.com/api/media/a47fbf54-8495-4993-8545-570edf8d542a/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/fd268f16-c74a-4376-ab2d-3f1cf1825f43/video.mp4)
 

@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-05 – # I made the schematic!!!](#2026-10-05-i-made-the-schematic)
-2. [2026-10-05 – I routed everything, but I put it mostly on the back of the board so... i guess we'll see if it works on two different layers. I also had trouble understanding how to route at all, but I get it now so](#2026-10-05-i-routed-everything-but-i-put-it-mostly-on-the-ba)
+2. [2026-10-05 – # Routing!!!!](#2026-10-05-routing)
 3. [2026-10-06 – I re routed everything because I though I made a mistake, I don't know if I actually did, and I added cartoon stars to the image converter as background art because thought it would look good, althoug](#2026-10-06-i-re-routed-everything-because-i-though-i-made-a-)
 4. [2026-10-07 – ![Screenshot 2026-10-07 201721](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f478c62367c6be35a6efe99642eaa193d801440ffee8a8bec22525015a794bfb.png)](#2026-10-07-screenshot-2026-10-07-201721httpshalflifehackclub)
 5. [2026-10-08 – spent a long time on the pixel art and then had trouble converting the image,  but eventually got it working. got started on animations for  high and low temperatures and humidity. Might add a game li](#2026-10-08-spent-a-long-time-on-the-pixel-art-and-then-had-t)
@@ -50,11 +50,19 @@
 ## what I learned:
  - I'm still not quite sure about  what each thing i'm doingmeans, but I feel like I'm making progress.
 
-### 2026-10-05 – I routed everything, but I put it mostly on the back of the board so... i guess we'll see if it works on two different layers. I also had trouble understanding how to route at all, but I get it now so
+### 2026-10-05 – # Routing!!!!
 
 **1.5h**
 
-I routed everything, but I put it mostly on the back of the board so... i guess we'll see if it works on two different layers. I also had trouble understanding how to route at all, but I get it now so I can do it in the future,
+# Routing!!!!
+## what I did:
+I routed everything
+## challenges/mistakes
+ I put it mostly on the back of the board so... i guess we'll see if it works on two different layers. I also had trouble understanding how to route at all, but I get it now so I can do it in the future.
+## what I learned
+- how to route
+- not to route it all on the same layer
+- to be careful with space when routing
 
 ![icon_1_image_x16](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/694873a039b03cd65fd0afdc56ae6901f2049db7ca6ea131113098e076717e7a.png)
 

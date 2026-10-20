@@ -16,7 +16,7 @@
 
 1. [2026-10-05 – # I made the schematic!!!](#2026-10-05-i-made-the-schematic)
 2. [2026-10-05 – # Routing!!!!](#2026-10-05-routing)
-3. [2026-10-06 – I re routed everything because I though I made a mistake, I don't know if I actually did, and I added cartoon stars to the image converter as background art because thought it would look good, althoug](#2026-10-06-i-re-routed-everything-because-i-though-i-made-a-)
+3. [2026-10-06 – # Routing again!!!](#2026-10-06-routing-again)
 4. [2026-10-07 – ![Screenshot 2026-10-07 201721](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f478c62367c6be35a6efe99642eaa193d801440ffee8a8bec22525015a794bfb.png)](#2026-10-07-screenshot-2026-10-07-201721httpshalflifehackclub)
 5. [2026-10-08 – spent a long time on the pixel art and then had trouble converting the image,  but eventually got it working. got started on animations for  high and low temperatures and humidity. Might add a game li](#2026-10-08-spent-a-long-time-on-the-pixel-art-and-then-had-t)
 6. [2026-10-08 – I added the ability to make the pet run longer, but I wasn't able to add keyboard support or anything unfortunately. I am still going to have the pet sweat in high heat or humidity and shiver in the c](#2026-10-08-i-added-the-ability-to-make-the-pet-run-longer-bu)
@@ -70,15 +70,23 @@ I routed everything
 
 ![1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d387b3af597f3d00ada913decbaa43c9edb19d5ef0fdbcdd778404cf5623d770.png)
 
-### 2026-10-06 – I re routed everything because I though I made a mistake, I don't know if I actually did, and I added cartoon stars to the image converter as background art because thought it would look good, althoug
+### 2026-10-06 – # Routing again!!!
 
 **0.75h**
 
-I re routed everything because I though I made a mistake, I don't know if I actually did, and I added cartoon stars to the image converter as background art because thought it would look good, although im not sure it does
-
+# Routing again!!!
+## what I did:
+- I re routed everything because I though tI made a mistake
+-  I added cartoon stars to the image converter as background art because thought it would look good,
 ![10736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/141e604145fc1323edca629eb337947be7a015a2aadf4bc5b09c8f9484814090.png)
 
 ![10737](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d1b9bc0619c702daea570e2f763c4ce6526913c0e3f88d1eb88bfa9221ed2c4f.png)
+## challenges/mistakes
+- I'm not sure I actually should have rerouted everything
+- I don't know that the art looks good
+## what I learned
+- to check before redoing something to see if it actually needs redoing
+- to think more carefully about design choices
 
 ### 2026-10-07 – ![Screenshot 2026-10-07 201721](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f478c62367c6be35a6efe99642eaa193d801440ffee8a8bec22525015a794bfb.png)
 

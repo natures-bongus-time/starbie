@@ -123,7 +123,7 @@ adding something like a game?
 
 # firmware!
 # what I did:
-- I added the ability to make the pet run longer
+- I added the ability to make the pet run longer by making the amount of laps have a variable that is added to when you hit button one, and reset when it finishes all the laps.
 
 ![Screenshot 2026-10-08 173905](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/4106db23a6b67e0a2194771cb6ec713ca4b7171eb9fc6bf67b8e2367a3606e5c.png)
 

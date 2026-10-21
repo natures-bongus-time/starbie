@@ -20,7 +20,7 @@
 4. [2026-10-07 – # short Arduino session](#2026-10-07-short-arduino-session)
 5. [2026-10-08 – # pixel art and firmware!](#2026-10-08-pixel-art-and-firmware)
 6. [2026-10-08 – # firmware!](#2026-10-08-firmware)
-7. [2026-10-08 – ![Screenshot 2026-10-19 164624](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/0550ac916533b37df5469656db3dd74bef1e6b3db0aa57f9a1b061a4f84d622f.png)](#2026-10-08-screenshot-2026-10-19-164624httpshalflifehackclub)
+7. [2026-10-08 – Work session](#2026-10-08-work-session)
 8. [2026-10-09 – Work session](#2026-10-09-work-session)
 9. [2026-10-10 – Work session](#2026-10-10-work-session)
 10. [2026-10-10 – # aesthetics!](#2026-10-10-aesthetics)
@@ -133,15 +133,9 @@ adding something like a game?
 ## future ideas
 I am still going to have the pet sweat in high heat or humidity and shiver in the cold.
 
-### 2026-10-08 – ![Screenshot 2026-10-19 164624](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/0550ac916533b37df5469656db3dd74bef1e6b3db0aa57f9a1b061a4f84d622f.png)
+### 2026-10-08 – Work session
 
 **0.45h**
-
-![Screenshot 2026-10-19 164624](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/0550ac916533b37df5469656db3dd74bef1e6b3db0aa57f9a1b061a4f84d622f.png)
-
-![10773](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d93f0ae2891a74f059cf103c7c648147bb499a8f342da65a433ebd9f356ba771.png)
-
-I spent this session coding, I added a feature to make the pet tell you how to make it run forever if you decide you want to do that, and I also redesigned and rewired the pcb, which took a long time to finish doing for some reason.
 
 [Timelapse](https://lookout.hackclub.com/api/media/114be964-4682-47a6-8d2d-29c1326f8c64/video.mp4)
 

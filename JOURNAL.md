@@ -22,7 +22,7 @@
 6. [2026-10-08 – # firmware!](#2026-10-08-firmware)
 7. [2026-10-08 – ![Screenshot 2026-10-19 164624](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/0550ac916533b37df5469656db3dd74bef1e6b3db0aa57f9a1b061a4f84d622f.png)](#2026-10-08-screenshot-2026-10-19-164624httpshalflifehackclub)
 8. [2026-10-09 – ![Screenshot 2026-10-19 164526](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8a57631dda75b79b340426cc9e4d9df2bdcdb0e4fbedbb0fed694bf4060efb3d.png)](#2026-10-09-screenshot-2026-10-19-164526httpshalflifehackclub)
-9. [2026-10-10 – ![Screenshot 2026-10-19 164254](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f6c1eb4b5c2e0af9fade2b643a93062c29fae2c3d7200dc3e8c98ea9b24f7e27.png)](#2026-10-10-screenshot-2026-10-19-164254httpshalflifehackclub)
+9. [2026-10-10 – Work session](#2026-10-10-work-session)
 10. [2026-10-10 – # aesthetics!](#2026-10-10-aesthetics)
 11. [2026-10-10 – Work session](#2026-10-10-work-session)
 
@@ -157,15 +157,9 @@ this time I did a lot more coding, and I edited the PCB and schematics to add US
 
 [Timelapse](https://lookout.hackclub.com/api/media/909f7104-27c5-4340-b5ce-1ae48f40abcb/video.mp4)
 
-### 2026-10-10 – ![Screenshot 2026-10-19 164254](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f6c1eb4b5c2e0af9fade2b643a93062c29fae2c3d7200dc3e8c98ea9b24f7e27.png)
+### 2026-10-10 – Work session
 
 **0.68h**
-
-![Screenshot 2026-10-19 164254](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f6c1eb4b5c2e0af9fade2b643a93062c29fae2c3d7200dc3e8c98ea9b24f7e27.png)
-
-![10736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/141e604145fc1323edca629eb337947be7a015a2aadf4bc5b09c8f9484814090.png)
-
-I drew some art  for the pcb to make it look cool and I spent some time on the code and fixing things, although  all the art came out very different than I expected. Hopefully it turns out well, and looks okay.
 
 [Timelapse](https://lookout.hackclub.com/api/media/a47fbf54-8495-4993-8545-570edf8d542a/video.mp4)
 

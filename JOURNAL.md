@@ -106,8 +106,8 @@ I struggled to get arduino working but I finally did although I'm not sure if I 
 # pixel art and firmware!
 ## what I did:
 - spent a long time on the pixel art
-- messed up converting the image,
-- eventually got it working.
+- messed up converting the image because I forgot that there wouldn't be color so I put something in every pixel which ended up showing up as all pixels being on, or just a square
+- eventually got it working and removed some clutter
 - started thinking about animations for  high and low temperatures and humidity.
 
 ![Screenshot 2026-10-08 132746](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/43c74f621e4e71b8a4e8b0592d58f4362a3dd6fb89f3fc6224ef48a80287e2ae.png)

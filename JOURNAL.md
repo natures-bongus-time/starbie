@@ -21,7 +21,7 @@
 5. [2026-10-08 – # pixel art and firmware!](#2026-10-08-pixel-art-and-firmware)
 6. [2026-10-08 – # firmware!](#2026-10-08-firmware)
 7. [2026-10-08 – ![Screenshot 2026-10-19 164624](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/0550ac916533b37df5469656db3dd74bef1e6b3db0aa57f9a1b061a4f84d622f.png)](#2026-10-08-screenshot-2026-10-19-164624httpshalflifehackclub)
-8. [2026-10-09 – ![Screenshot 2026-10-19 164526](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8a57631dda75b79b340426cc9e4d9df2bdcdb0e4fbedbb0fed694bf4060efb3d.png)](#2026-10-09-screenshot-2026-10-19-164526httpshalflifehackclub)
+8. [2026-10-09 – Work session](#2026-10-09-work-session)
 9. [2026-10-10 – Work session](#2026-10-10-work-session)
 10. [2026-10-10 – # aesthetics!](#2026-10-10-aesthetics)
 11. [2026-10-10 – Work session](#2026-10-10-work-session)
@@ -145,15 +145,9 @@ I spent this session coding, I added a feature to make the pet tell you how to m
 
 [Timelapse](https://lookout.hackclub.com/api/media/114be964-4682-47a6-8d2d-29c1326f8c64/video.mp4)
 
-### 2026-10-09 – ![Screenshot 2026-10-19 164526](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8a57631dda75b79b340426cc9e4d9df2bdcdb0e4fbedbb0fed694bf4060efb3d.png)
+### 2026-10-09 – Work session
 
 **0.87h**
-
-![Screenshot 2026-10-19 164526](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8a57631dda75b79b340426cc9e4d9df2bdcdb0e4fbedbb0fed694bf4060efb3d.png)
-
-![10737](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d1b9bc0619c702daea570e2f763c4ce6526913c0e3f88d1eb88bfa9221ed2c4f.png)
-
-this time I did a lot more coding, and I edited the PCB and schematics to add USB support, I'm pretty sure that it worked, but there's a chance it didn't work at alll, so we'll see when it's  time to build it and test it.
 
 [Timelapse](https://lookout.hackclub.com/api/media/909f7104-27c5-4340-b5ce-1ae48f40abcb/video.mp4)
 

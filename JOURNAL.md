@@ -76,17 +76,20 @@ I routed everything
 
 # Routing again!!!
 ## what I did:
-- I re routed everything because I though tI made a mistake
--  I added cartoon stars to the image converter as background art because thought it would look good,
+- I had to route the entire board again
+- That was because I thought I made a mistake, so I wanted to try again and maybe also get practice routing in.
+-  I also added cartoon stars to the pcb using the image converter as background art because thought it would look good
 ![10736](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/141e604145fc1323edca629eb337947be7a015a2aadf4bc5b09c8f9484814090.png)
 
 ![10737](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d1b9bc0619c702daea570e2f763c4ce6526913c0e3f88d1eb88bfa9221ed2c4f.png)
 ## challenges/mistakes
-- I'm not sure I actually should have rerouted everything
-- I don't know that the art looks good
+- I'm not sure I actually should have rerouted everything, because it might have been correct the first time, and it was probably unnecessary
+- I don't know that the art looks good, it might make it look too cluttered.
 ## what I learned
 - to check before redoing something to see if it actually needs redoing
 - to think more carefully about design choices
+# TLDR
+I undid my routing and tried again and added some art.
 
 ### 2026-10-07 – # short Arduino session
 

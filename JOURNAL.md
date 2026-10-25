@@ -159,8 +159,8 @@ I am still going to have the pet sweat in high heat or humidity and shiver in th
 
 # aesthetics!
 ## what I did:
-- Figured out how to change the color and made it pink.
--  changed some of the art and layers.
+- Figured out how to change the color by going into the layers and made it pink.
+-  I updated some of the art and layers because some of it wasn't on the right layer, so I had to change the layer so it would show up, but it's fixed now.
 - each art thing is now marked with :3 or a variant because I thought it would be fun. ![Screenshot 2026-10-10 122838](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/026ed863f08931c4f2eef77658bd0d05d297bda6919666874a861b0717d5a914.png)
 
 ![Screenshot 2026-10-10 122846](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/55781e490e70731e1280da343e3264b09b9722f3777ea9edcb445aa02565681e.png)

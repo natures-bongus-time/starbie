@@ -143,6 +143,8 @@ I am still going to have the pet sweat in high heat or humidity and shiver in th
 
 **0.87h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/909f7104-27c5-4340-b5ce-1ae48f40abcb/video.mp4)
 
 ### 2026-10-10 – Work session

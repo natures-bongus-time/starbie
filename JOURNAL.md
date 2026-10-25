@@ -123,13 +123,14 @@ adding something like a game?
 
 # firmware!
 # what I did:
-- I added the ability to make the pet run longer by making the amount of laps have a variable that is added to when you hit button one, and reset when it finishes all the laps.
+- I added the ability to make the pet run longer
+- I did this by making the amount of laps have a variable, ExtraRunLaps that is added to when it senses tha t you hit button one, and that variable resets when it finishes all the laps. I'm not sure that that feature works, but I'm pretty sure that I did it correctly.
 
 ![Screenshot 2026-10-08 173905](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/4106db23a6b67e0a2194771cb6ec713ca4b7171eb9fc6bf67b8e2367a3606e5c.png)
 
 ![Screenshot 2026-10-08 173856](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8700d7e553b8760dd285bdd40fda8a7535198af8a3f275a05d633a317249e925.png)
 ## challenges:
-- wasn't able to add keyboard support or anything unfortunately.
+- wasn't able to add keyboard support or anything unfortunately. I'm going to have to try next session, and find footprints and parts for a usb port.
 ## future ideas
 I am still going to have the pet sweat in high heat or humidity and shiver in the cold.
 

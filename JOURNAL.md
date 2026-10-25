@@ -56,13 +56,16 @@
 
 # Routing!!!!
 ## what I did:
-I routed everything
+- I routed the pcb
+- I learned more about how kicad works and how layers work when routing.
 ## challenges/mistakes
- I put it mostly on the back of the board so... i guess we'll see if it works on two different layers. I also had trouble understanding how to route at all, but I get it now so I can do it in the future.
+ - I put it mostly on the back of the board at first.
+ - I was worried that it might not work on two different layers, but I looked it up and it does.
+- I also had trouble understanding how to route at all, but I understand it much better now so I can do it well in the future.
 ## what I learned
 - how to route
-- not to route it all on the same layer
-- to be careful with space when routing
+- not to route it all on the same layer because you'll end up cutting other things that you need off
+- to be careful with space when routing so you are able to route everything and not get stuck without a way to connect things.
 
 ![icon_1_image_x16](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/694873a039b03cd65fd0afdc56ae6901f2049db7ca6ea131113098e076717e7a.png)
 

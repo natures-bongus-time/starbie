@@ -106,8 +106,8 @@ I struggled to get arduino working but I finally did although I'm not sure if I 
 # pixel art and firmware!
 ## what I did:
 - spent a long time on the pixel art
-- messed up converting the image because I forgot that there wouldn't be color so I put something in every pixel which ended up showing up as all pixels being on, or just a square
-- eventually got it working and removed some clutter
+- messed up converting the image because I forgot that there wouldn't be color so I put something in every pixel which ended up showing up as all pixels being on, or just a square, which meant that all the bits in the code were set to zero.
+- When I figured out why all the bits in the code were zero, and that that wasn't what was supposed to happen, I erased all the extra pixels, and was able to have it look right.
 - started thinking about animations for  high and low temperatures and humidity.
 
 ![Screenshot 2026-10-08 132746](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/43c74f621e4e71b8a4e8b0592d58f4362a3dd6fb89f3fc6224ef48a80287e2ae.png)
@@ -115,7 +115,10 @@ I struggled to get arduino working but I finally did although I'm not sure if I 
 ![Screenshot 2026-10-08 132711](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/a27efc7e675eec8376de3f3d2a0d0662226924e301b80f23971611ac971806a7.png)
 
 ## ideas for the future:
-adding something like a game?
+I might try to add a game, but I'm not quite sure how to do that so I'd have to figure that out.
+
+# TLDR
+after some trial and error, I figured out how to do the art for this project.
 
 ### 2026-10-08 – # firmware!
 

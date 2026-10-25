@@ -46,9 +46,12 @@
 ![Screenshot 2026-10-05 173320](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/cbc898c643c99b72c4df39a36ffff46ff27c90f26676cffa0e5cfe4526bf69bc.png)
 ##  what was hard:
  - i struggled with setting up kicad and getting the libraries to work.
-- the schematic took a surprising amount of time to figure out
+- This was mostly because I downloaded the wrong version of kicad and didn't find a resource on setting up libraries at first.
+- the schematic took a surprising amount of time to figure out because I had never done anything like it before.
 ## what I learned:
- - I'm still not quite sure about  what each thing i'm doingmeans, but I feel like I'm making progress.
+ - I'm still not quite sure about  what each thing i'm doing means, but I feel like I'm making progress.
+# TLDR
+I set up kicad and the libraries, and I built the schematic
 
 ### 2026-10-05 – # Routing!!!!
 

@@ -39,11 +39,11 @@
 - the switches,
 - the sensors
 - and the screen
-![Screenshot 2026-10-05 173320](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/cbc898c643c99b72c4df39a36ffff46ff27c90f26676cffa0e5cfe4526bf69bc.png)
+![Screenshot 2026-10-05 173320](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/cbc898c643c99b72c4df39a36ffff46ff27c90f26676cffa0e5cfe4526bf69bc.png)
 
-![Screenshot 2026-10-05 173331](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/98ed0e99f8f27b6d8f2006d85cbf3e51489377c084ffc58a344f331dffef9c55.png)
+![Screenshot 2026-10-05 173331](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/98ed0e99f8f27b6d8f2006d85cbf3e51489377c084ffc58a344f331dffef9c55.png)
 
-![Screenshot 2026-10-05 173320](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/cbc898c643c99b72c4df39a36ffff46ff27c90f26676cffa0e5cfe4526bf69bc.png)
+![Screenshot 2026-10-05 173320](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/cbc898c643c99b72c4df39a36ffff46ff27c90f26676cffa0e5cfe4526bf69bc.png)
 ##  what was hard:
  - i struggled with setting up kicad and getting the libraries to work.
 - the schematic took a surprising amount of time to figure out
@@ -64,11 +64,11 @@ I routed everything
 - not to route it all on the same layer
 - to be careful with space when routing
 
-![icon_1_image_x16](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/694873a039b03cd65fd0afdc56ae6901f2049db7ca6ea131113098e076717e7a.png)
+![icon_1_image_x16](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/694873a039b03cd65fd0afdc56ae6901f2049db7ca6ea131113098e076717e7a.png)
 
-![icon_1_image_x16](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/694873a039b03cd65fd0afdc56ae6901f2049db7ca6ea131113098e076717e7a.png)
+![icon_1_image_x16](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/694873a039b03cd65fd0afdc56ae6901f2049db7ca6ea131113098e076717e7a.png)
 
-![1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d387b3af597f3d00ada913decbaa43c9edb19d5ef0fdbcdd778404cf5623d770.png)
+![1](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d387b3af597f3d00ada913decbaa43c9edb19d5ef0fdbcdd778404cf5623d770.png)
 
 ### 2026-10-06 – # Routing again!!!
 
@@ -78,9 +78,9 @@ I routed everything
 ## what I did:
 - I re routed everything because I though tI made a mistake
 -  I added cartoon stars to the image converter as background art because thought it would look good,
-![10736](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/141e604145fc1323edca629eb337947be7a015a2aadf4bc5b09c8f9484814090.png)
+![10736](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/141e604145fc1323edca629eb337947be7a015a2aadf4bc5b09c8f9484814090.png)
 
-![10737](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d1b9bc0619c702daea570e2f763c4ce6526913c0e3f88d1eb88bfa9221ed2c4f.png)
+![10737](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/d1b9bc0619c702daea570e2f763c4ce6526913c0e3f88d1eb88bfa9221ed2c4f.png)
 ## challenges/mistakes
 - I'm not sure I actually should have rerouted everything
 - I don't know that the art looks good
@@ -95,7 +95,7 @@ I routed everything
 # short Arduino session
 ## what I did:
 I got Arduino running and did a little bit of the firmware
-![Screenshot 2026-10-07 201721](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f478c62367c6be35a6efe99642eaa193d801440ffee8a8bec22525015a794bfb.png)![Screenshot 2026-10-07 201728](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/81fd40dba230d661b75e6a6c930eda3a078c607c530436a23f9fc410c6a72bae.png)
+![Screenshot 2026-10-07 201721](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f478c62367c6be35a6efe99642eaa193d801440ffee8a8bec22525015a794bfb.png)![Screenshot 2026-10-07 201728](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/81fd40dba230d661b75e6a6c930eda3a078c607c530436a23f9fc410c6a72bae.png)
 ## challenges:
 I struggled to get arduino working but I finally did although I'm not sure if I did it right because the thing may  have wanted me to have the board itself and I don't
 
@@ -110,9 +110,9 @@ I struggled to get arduino working but I finally did although I'm not sure if I 
 - eventually got it working and removed some clutter
 - started thinking about animations for  high and low temperatures and humidity.
 
-![Screenshot 2026-10-08 132746](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/43c74f621e4e71b8a4e8b0592d58f4362a3dd6fb89f3fc6224ef48a80287e2ae.png)
+![Screenshot 2026-10-08 132746](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/43c74f621e4e71b8a4e8b0592d58f4362a3dd6fb89f3fc6224ef48a80287e2ae.png)
 
-![Screenshot 2026-10-08 132711](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/a27efc7e675eec8376de3f3d2a0d0662226924e301b80f23971611ac971806a7.png)
+![Screenshot 2026-10-08 132711](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/a27efc7e675eec8376de3f3d2a0d0662226924e301b80f23971611ac971806a7.png)
 
 ## ideas for the future:
 adding something like a game?
@@ -125,9 +125,9 @@ adding something like a game?
 # what I did:
 - I added the ability to make the pet run longer by making the amount of laps have a variable that is added to when you hit button one, and reset when it finishes all the laps.
 
-![Screenshot 2026-10-08 173905](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/4106db23a6b67e0a2194771cb6ec713ca4b7171eb9fc6bf67b8e2367a3606e5c.png)
+![Screenshot 2026-10-08 173905](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/4106db23a6b67e0a2194771cb6ec713ca4b7171eb9fc6bf67b8e2367a3606e5c.png)
 
-![Screenshot 2026-10-08 173856](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8700d7e553b8760dd285bdd40fda8a7535198af8a3f275a05d633a317249e925.png)
+![Screenshot 2026-10-08 173856](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/8700d7e553b8760dd285bdd40fda8a7535198af8a3f275a05d633a317249e925.png)
 ## challenges:
 - wasn't able to add keyboard support or anything unfortunately.
 ## future ideas
@@ -161,14 +161,16 @@ I am still going to have the pet sweat in high heat or humidity and shiver in th
 ## what I did:
 - Figured out how to change the color and made it pink.
 -  changed some of the art and layers.
-- each art thing is now marked with :3 or a variant because I thought it would be fun. ![Screenshot 2026-10-10 122838](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/026ed863f08931c4f2eef77658bd0d05d297bda6919666874a861b0717d5a914.png)
+- each art thing is now marked with :3 or a variant because I thought it would be fun. ![Screenshot 2026-10-10 122838](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/026ed863f08931c4f2eef77658bd0d05d297bda6919666874a861b0717d5a914.png)
 
-![Screenshot 2026-10-10 122846](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/55781e490e70731e1280da343e3264b09b9722f3777ea9edcb445aa02565681e.png)
+![Screenshot 2026-10-10 122846](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/55781e490e70731e1280da343e3264b09b9722f3777ea9edcb445aa02565681e.png)
 # finished?!?!??
 I finally finished I think, just one more session to export everything correctly
 
 ### 2026-10-10 – Work session
 
 **0.27h**
+
+Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/8adae0a8-484f-4f5b-ba30-8feef86f2c8c/video.mp4)

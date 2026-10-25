@@ -97,7 +97,13 @@ I routed everything
 I got Arduino running and did a little bit of the firmware
 ![Screenshot 2026-10-07 201721](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/f478c62367c6be35a6efe99642eaa193d801440ffee8a8bec22525015a794bfb.png)![Screenshot 2026-10-07 201728](https://halflife.hackclub-assets.com/sessions/askGPe8EYSiHWzHqcUjTHwDH3ZciI3zQ/81fd40dba230d661b75e6a6c930eda3a078c607c530436a23f9fc410c6a72bae.png)
 ## challenges:
-I struggled to get arduino working but I finally did although I'm not sure if I did it right because the thing may  have wanted me to have the board itself and I don't
+- I struggled to get arduino working
+- this was because I installed it wrong and the libraries were wrong.
+- I finally did it after uninstalling and starting from scratch.
+## worries
+ -I'm not sure if I installed it right because the firmware may  have needed me to have the microcontroller itself and I don't have it yet, but it's possible I just don't need to export the code until I do have the parts, and I can  just start coding
+# TLDR
+after some difficulty, I installed arduino ide and started on the firmware.
 
 ### 2026-10-08 – # pixel art and firmware!
 

@@ -136,6 +136,8 @@ after some trial and error, I figured out how to do the art for this project.
 - wasn't able to add keyboard support or anything unfortunately. I'm going to have to try next session, and find footprints and parts for a usb port.
 ## future ideas
 I am still going to have the pet sweat in high heat or humidity and shiver in the cold.
+# TLDR
+I made the pet able to for as long as you want it to
 
 ### 2026-10-08 – Work session
 

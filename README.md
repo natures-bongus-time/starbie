@@ -8,12 +8,16 @@ Starbie is a tiny motion-controlled digital pet
 It's a tamagotchi-like pet that has two keys, a screen and a temperature and humidity sensor, and it's based off of a [starboy](https://lilguy.net)
 
 ## Features
-It can tell you the temperature, sense motions, be fed, play, sleep and more
+-It can tell you the temperature with a dht 11 sensor
+-sense motions with an accelerometer
+-it has stats that you have to keep up to keep it happy, which are programmed on Arduino ide
+- be fed, play, sleep and more all of which are animations selectable from a motion controlled radial menu
+- it will react if you shake it from the motion sensor, but it doesn't really like that
 
 ## Why?
 
 This project was created for my week 1 beginner project for [half-life](https://halflife.hackclub.com/)!
-I chose it because I'm super new to hardware, so the project guide was super helpful.
+I chose it because I'm super new to hardware, so the project guide was super helpful. I wanted to learn how to make projects like this because it's a new and interesting challenge that is super engaging for me, and I had a lot of fun with it.
 
 ## Project status
 

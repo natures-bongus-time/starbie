@@ -31,9 +31,11 @@ the design and firmware are included, and they're both finished.
 above: renders of the PCB
 below: the schematic
 <img width="1453" height="770" alt="Screenshot 2026-10-25 093653" src="https://github.com/user-attachments/assets/ee6db62d-1918-4af7-a96f-7dcd523b7d70" />
+
+
+<img width="408" height="134" alt="Screenshot 2026-10-08 173905" src="https://github.com/user-attachments/assets/0de9a782-876e-47d6-9734-e6835257b7c2" />
 above: some of the firmware
 below: the PCB design/routing
-<img width="408" height="134" alt="Screenshot 2026-10-08 173905" src="https://github.com/user-attachments/assets/0de9a782-876e-47d6-9734-e6835257b7c2" />
  <img width="696" height="720" alt="image" src="https://github.com/user-attachments/assets/0b6801a8-a435-4d35-b59f-301ad88e4a07" />
 
  

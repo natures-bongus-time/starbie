@@ -8,9 +8,9 @@ Starbie is a tiny motion-controlled digital pet
 It's a tamagotchi-like pet that has two keys, a screen and a temperature and humidity sensor, and it's based off of a [starboy](https://lilguy.net)
 
 ## Features
--It can tell you the temperature with a dht 11 sensor
--sense motions with an accelerometer
--it has stats that you have to keep up to keep it happy, which are programmed on Arduino ide
+- It can tell you the temperature with a dht 11 sensor
+- sense motions with an accelerometer
+- it has stats that you have to keep up to keep it happy, which are programmed on Arduino ide
 - be fed, play, sleep and more all of which are animations selectable from a motion controlled radial menu
 - it will react if you shake it from the motion sensor, but it doesn't really like that
 
@@ -28,6 +28,8 @@ the design and firmware are included, and they're both finished.
 ## Images
 <img width="676" height="370" alt="Screenshot 2026-10-25 093637" src="https://github.com/user-attachments/assets/0691529e-4373-4f88-a810-c1c4fe77cec2" />
 <img width="749" height="441" alt="Screenshot 2026-10-25 093643" src="https://github.com/user-attachments/assets/3c3644a3-9dfe-4965-85b3-8286ab61ed79" />
+above: renders of the PCB
+below: the schematic
 <img width="1453" height="770" alt="Screenshot 2026-10-25 093653" src="https://github.com/user-attachments/assets/ee6db62d-1918-4af7-a96f-7dcd523b7d70" />
 <img width="408" height="134" alt="Screenshot 2026-10-08 173905" src="https://github.com/user-attachments/assets/0de9a782-876e-47d6-9734-e6835257b7c2" />
  <img width="696" height="720" alt="image" src="https://github.com/user-attachments/assets/0b6801a8-a435-4d35-b59f-301ad88e4a07" />
